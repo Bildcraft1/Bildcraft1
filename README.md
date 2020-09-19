@@ -1,8 +1,8 @@
-# Bildcraft1
+# Hi to everyone 👋
 
 Hi i am a 14yrs old programmer and writer at [linux/hub]("https://linuxhub.it")
 
-I program in C, Python and JavaScript
+✨I program in C, Python and JavaScript✨
 
 ## My Socials
 
