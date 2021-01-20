@@ -15,6 +15,7 @@ Hi i am a 14yrs old programmer and writer at [linux/hub]("https://linuxhub.it")
 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Bildcraft1&custom_title=Stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bildcraft1&theme=tokyonight&layout=compact&hide_border=true)
 
 ## My Socials
