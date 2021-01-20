@@ -14,7 +14,8 @@ Hi i am a 14yrs old programmer and writer at [linux/hub]("https://linuxhub.it")
 [![](https://img.shields.io/badge/OS-macOS%20Bug%20Sure-informational?style=flat&logo=apple&logoColor=white&color=AC4142)](https://www.apple.com/)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bildcraft1&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![my github stats](https://github-readme-stats.vercel.app/api?username=Bildcraft1&custom_title=Stats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bildcraft1&theme=tokyonight&layout=compact&hide_border=true)
 
 ## My Socials
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/GesuInTerra)
