@@ -4,7 +4,7 @@
 
 # Hi to everyone 👋
 
-Hi i am a 14yrs old programmer and writer at [linux/hub]("https://linuxhub.it")
+Hi i am a programmer and writer at [linux/hub]("https://linuxhub.it")
 <br>
 
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
