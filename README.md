@@ -16,7 +16,7 @@
 - Linux
 
 ## Languages (Sorted by knowledge):
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/Kotlin-841ca8?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Java-ff3442?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Rust-FF5733?style=for-the-badge&logo=rust&logoColor=black">
+<img src="https://img.shields.io/badge/C++-5a5a5a?style=for-the-badge&logo=cplusplus&logoColor=blue"><img src="https://img.shields.io/badge/Kotlin-841ca8?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/Java-ff3442?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Rust-FF5733?style=for-the-badge&logo=rust&logoColor=black">
 
 
 ## My Socials
