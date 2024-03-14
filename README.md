@@ -3,7 +3,7 @@
 <br>
 
 ## About Me
-- 17yo Dev & Aspiring DevOps Engineer from Italy
+- 18yo Dev & Aspiring DevOps Engineer from Italy
 - Music Producer
 
 ## Projects
